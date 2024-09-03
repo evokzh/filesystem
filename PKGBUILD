@@ -31,8 +31,8 @@ backup=(
 )
 source=(
   'arch-release'
-  'archlinux-logo.png'
-  'archlinux-logo.svg'
+  'monadi-logo.png'
+  'monadi-logo.svg'
   'archlinux-logo-text.svg'
   'archlinux-logo-text-dark.svg'
   'crypttab'
@@ -71,13 +71,13 @@ sha256sums=('01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b'
             '90d879374f77bac47f132164c1e7fc4892e994ff1d1ac376efa0c1c26ea37273'
             '4d7b647169063dfedbff5e1e22cee77bd1a4183dbcfd5e802e68939da4bbf733'
             'd9cd8a77d9e0aa5e90d7f4ed74c8745c17b525e720e28e4c44364150003c35f9'
-            'c774dbbcaea38ee1c1141d0daf82aa8177bfb26aca896d6f0c4ccdc902f6ac42'
+            'c18bb80fc718c5e3b82b06c5b12519bf6019b30189e08a4ded79cfd71ebb1594'
             '785c6c3614a27ae6115a27c1ca55bbf333654780997c4ba7e181172b021d1bf3'
-            '8ca2d8eef6fb5143c9ef7e9174ccfef59ac7ad2deee243574cd10c763156cc10'
+            '153d848ed51f2774e5a1578ea08e0c8586ecc63f7562697e035b84247edb2f82'
             'c8ee7a9faf798caab178ec51afae4146f1efd8a716b7acedf28345b6c75f9697'
-            '71ff7a6e248d9a0718344c957ec709cb6f0b18631682fa404d7cff2af3ff341d'
+            '546c4e52f29ddfbe0489e86c8ea02bf91915c036222ca0a31855d4b54976d7d6'
             '13e2783884783ef46b8345fbcdf7880f0414c0a9c42e2b2fc6a2b048cbc2d86e'
-            '8f08231922fe185d3132f9aedded5cd688fb7c482a6f6f272402ded82fa4849a'
+            '1979ee468511e65109234d9ab7f26e84f0f5f2a96c3ce18740d145049cfa43f4'
             '5557d8e601b17a80d1ea7de78a9869be69637cb6a02fbfe334e22fdf64e61d4c'
             'd88be2b45b43605ff31dd83d6a138069b6c2e92bc8989b7b9ab9eba8da5f8c7b'
             '6e13705ac4d6f69cdba118c6b70c722346fd3c45224133e6bbfe28aca719563c'
@@ -214,8 +214,8 @@ package() {
     ["usr/share/factory/etc/shells"]="shells:644:0:0"
     ["usr/share/factory/etc/subgid"]="subgid:644:0:0"
     ["usr/share/factory/etc/subuid"]="subuid:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo.png"]="archlinux-logo.png:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo.svg"]="archlinux-logo.svg:644:0:0"
+    ["usr/share/pixmaps/monadi-logo.png"]="monadi-logo.png:644:0:0"
+    ["usr/share/pixmaps/amonadi-logo.svg"]="monadi-logo.svg:644:0:0"
     ["usr/share/pixmaps/archlinux-logo-text.svg"]="archlinux-logo-text.svg:644:0:0"
     ["usr/share/pixmaps/archlinux-logo-text-dark.svg"]="archlinux-logo-text-dark.svg:644:0:0"
   )
