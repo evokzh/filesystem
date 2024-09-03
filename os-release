@@ -1,11 +1,16 @@
-NAME="Monadi"
-PRETTY_NAME="Monadi GNU/Linux"
+NAME="Monadi GNU/Linux"
+PRETTY_NAME="MONADI I (Chartreux)"
+VARIANT="Desktop"
+VARIANT_ID=desktop
+VERSION="I (Chartreux)"
+VERSION_ID=1
+VERSION_CODENAME=chartreux
 ID=monadi
-BUILD_ID=1
-ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://archlinux.org/"
-DOCUMENTATION_URL="https://wiki.archlinux.org/"
-SUPPORT_URL="https://bbs.archlinux.org/"
-BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
-PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
-LOGO=monadi-logo
+ID_LIKE=archlinux
+BUILD_ID=03092024
+VENDOR_NAME="evokzh"S
+ANSI_COLOR="38:2:23:147:209"
+HOME_URL="https://evokzh.com/monadi"
+LOGO-monadi-logo
+IMAGE_ID=archlinux
+IMAGE_VERSION=2024.09.03
