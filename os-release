@@ -1,14 +1,14 @@
-NAME="Monadi GNU/Linux"
-PRETTY_NAME="MONADI I (Chartreux)"
+NAME="MonadiOS GNU/Linux"
+PRETTY_NAME="MonadiOS I (Chartreux)"
 VARIANT="Desktop"
 VARIANT_ID=desktop
 VERSION="I (Chartreux)"
 VERSION_ID=1
 VERSION_CODENAME=chartreux
-ID=monadi
+ID=monadios
 ID_LIKE=archlinux
 BUILD_ID=03092024
-VENDOR_NAME="evokzh"S
+VENDOR_NAME="evokzh"
 ANSI_COLOR="38:2:23:147:209"
 HOME_URL="https://evokzh.com/monadi"
 LOGO-monadi-logo
